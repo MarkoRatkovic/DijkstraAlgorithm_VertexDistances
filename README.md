@@ -1,6 +1,6 @@
 CALCULATING DISTANCES AND SHORTEST PATH BETWEEN VERTICES USING DIJKSTRA'S ALGORITHM
 
-A complete function in Python with file handling, integer parsing and text output that reads a text file representing a weighted, directed graph that contains lines of integers to return shortest path and its distance between each pair of vertices.
+A complete function in Python with file handling, integer parsing and text output that reads a text file representing a weighted, directed graph that contains lines of integers to return shortest path and its distance between each pair of vertices. Text file with lines of integers added to the repository to test function. 
 
 Python, heapq
 
